@@ -30,7 +30,7 @@ AtliQ Technologies' fiscal year starts in September and ends in August.
 4. **Profit & Loss  by Fiscal years**: Detailed profit and loss analysis by fiscal year.
 
 ## Sales and financials reports:
-
+![](https://github.com/kruthika3006/Excel_AtliQ_sales_analytics/blob/main/report.pdf)
 
 ## Overall Insights
 - **Customer Sales Performance**: Notable growth in sales, especially in 2021 with a 304% increase.
